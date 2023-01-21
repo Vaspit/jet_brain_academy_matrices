@@ -2,8 +2,6 @@ package processor
 
 import processor.utils.MatrixHelper
 
-//TODO For initial commit
-
 fun main(args: Array<String>) {
     println("1. Add matrices")
     println("2. Multiply matrix by a constant")
